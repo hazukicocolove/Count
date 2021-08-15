@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>BB0C283A-3ADE-419E-A53B-759484AE93C6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BB0C283A-3ADE-419E-A53B-759484AE93C6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Count project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Count</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Count</string>
+			<key>timeStartedRecording</key>
+			<real>650701389.25950396</real>
+			<key>timeStoppedRecording</key>
+			<real>650701390.02409196</real>
+			<key>title</key>
+			<string>Build Count</string>
+			<key>uniqueIdentifier</key>
+			<string>BB0C283A-3ADE-419E-A53B-759484AE93C6</string>
+		</dict>
+		<key>BB1CF857-B898-4ED3-AF04-9382883D9816</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BB1CF857-B898-4ED3-AF04-9382883D9816.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Count project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Count</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Count</string>
+			<key>timeStartedRecording</key>
+			<real>650701182.85033596</real>
+			<key>timeStoppedRecording</key>
+			<real>650701188.97184801</real>
+			<key>title</key>
+			<string>Build Count</string>
+			<key>uniqueIdentifier</key>
+			<string>BB1CF857-B898-4ED3-AF04-9382883D9816</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "ccbf2ebba2572176deb11e0f0a12a251"
+build_time: [1629008386, 274022000]
+inputs:
+  "/Users/hazuki/Desktop/13/la/lifeistech/Count/Count/ViewController.swift": [1629008382, 807233668]
+  "/Users/hazuki/Desktop/13/la/lifeistech/Count/Count/AppDelegate.swift": [1629007353, 843367812]
+  "/Users/hazuki/Desktop/13/la/lifeistech/Count/Count/SceneDelegate.swift": [1629007353, 850617857]
